@@ -1,0 +1,8 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "staff_team": [],
+    "debug": true,
+    "test_guild": 123,
+    "color": "#5e17eb",
+    "prefix": "!"
+}

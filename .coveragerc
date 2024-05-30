@@ -1,0 +1,5 @@
+[run]
+source = 
+    core/
+    ext/
+    util/
